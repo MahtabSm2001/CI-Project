@@ -1,4 +1,3 @@
-[Uploading README.md…]()# Deep Learning for Image Processing and Captioning  
 
 ## Project Overview  
 This project explores the application of computational intelligence techniques in computer vision through three distinct phases. Each phase introduces new challenges and tasks related to image classification, medical image analysis, and image captioning.
